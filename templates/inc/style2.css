@@ -1,0 +1,24 @@
+body
+{
+    background-image: url(../inc/bg.jpg);
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ct
+{
+    text-align: center;
+    align-content: center;
+    background-color: #fff;
+    border-radius: 20px;
+    border: 3px solid #ddd;
+}
+td{
+    padding: 10px !important;
+    vertical-align: middle !important;
+}
+
+.form-group
+{
+    text-align: left;
+}
